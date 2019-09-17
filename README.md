@@ -29,7 +29,7 @@ Clone esse repositório e na pasta Grafos2_Joaokstra execute o seguinte comando:
 
 O Programa apresenta 4 funções principais sendo elas:
 
-**Inserir cidade**: Permite adicionar uma nova cidade a lista de grafos;
-**Inserir conexão entre as cidades**: Adiciona a distância entre duas cidades;
-**Imprimir lista de adjacência**: Imprime a lista de grafos;
-**Traçar menor caminho entre cidades**: Informa a distância entre duas cidades selecionadas;
+**Inserir cidade**: Permite adicionar uma nova cidade a lista de grafos; </p>
+**Inserir conexão entre as cidades**: Adiciona a distância entre duas cidades; </p>
+**Imprimir lista de adjacência**: Imprime a lista de grafos; </p>
+**Traçar menor caminho entre cidades**: Informa a distância entre duas cidades selecionadas; </p>
