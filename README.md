@@ -11,15 +11,25 @@
 | 16/0009758  |  João Lucas |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O programa permite que seja feito uma busca do menor caminho entre duas cidade (num weighted graph) usando o algoritmo de dijkstra. O programa permite também adicionar novas cidades e os caminhos entre elas.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Imagem 1](https://i.ibb.co/0D9Fvhm/screen1.png)
+![Imagem 2](https://i.ibb.co/4NPKVjK/screen2.png)
+![Imagem 3](https://i.ibb.co/x5HSmFR/screen3.png)
 
 ## Instalação 
 **Linguagem**: Go<br>
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Clone esse repositório e na pasta Grafos2_Joaokstra execute o seguinte comando:
+
+> go run .
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+O Programa apresenta 4 funções principais sendo elas:
+
+**Inserir cidade**: Permite adicionar uma nova cidade a lista de grafos;
+**Inserir conexão entre as cidades**: Adiciona a distância entre duas cidades;
+**Imprimir lista de adjacência**: Imprime a lista de grafos;
+**Traçar menor caminho entre cidades**: Informa a distância entre duas cidades selecionadas;
